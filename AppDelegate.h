@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
+@interface vvvvvv : UIResponder <UIApplicationDelegate>
+wqer
 @property (strong, nonatomic) UIWindow *window;
 
 
