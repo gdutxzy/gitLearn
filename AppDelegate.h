@@ -10,6 +10,8 @@
 
 @interface bbb : UIResponder <UIApplicationDelegate>
 
+@interface vvvvvv : UIResponder <UIApplicationDelegate>
+
 @property (strong, nonatomic) UIWindow *window;
 
 
